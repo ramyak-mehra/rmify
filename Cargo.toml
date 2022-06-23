@@ -1,0 +1,8 @@
+[package]
+name = "rmify"
+version = "0.1.0"
+edition = "2021"
+description = "It is a package that will traverse the dir for rust projects and delete their target folder to save space"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
